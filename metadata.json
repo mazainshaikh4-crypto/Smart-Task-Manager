@@ -1,0 +1,6 @@
+{
+  "name": "Cadence",
+  "description": "Smart To-Do List and daily productivity workspace for managing priorities, categories, deadlines, and progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
